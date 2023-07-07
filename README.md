@@ -10,7 +10,7 @@ Features
 
 Demo
 
-You can try out the calculator by visiting the [](https://tanmaygupta069.github.io/Calculator/).
+You can try out the calculator by visiting the https://tanmaygupta069.github.io/Calculator
 Web-Based Calculator
 
 
